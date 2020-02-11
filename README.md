@@ -1,4 +1,4 @@
-# Sonic Dash Run
+# Sonic Dash Run - By badass-techie
 
 A simple 3D arcade game, inspired by Sonic the Hedgehog
 
